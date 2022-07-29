@@ -1,24 +1,6 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# A simple api to train crud and relationships between tables in a database:
 
-Things you may want to cover:
+## The relationships between the entities can be seen in the diagram.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![alt text](https://www.prisma.io/blog/posts/grading-app-schema.png)
